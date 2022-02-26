@@ -9,9 +9,9 @@ $QueueAccessPolicyReceiver = "Provided by Donostek LLC"
 $ReceiverQueueString = "Provided by Donostek LLC"
 $ExecutorQueueString = "Provided by Donostek LLC"
 $QueueName = "Your Organization ID"
-$ZipFileNameReceiver = "DonostekWorkflowSchedulerAzure_051421.zip"
-$ZipFileNameProcessor = "DonostekWorkflowSchedulerProcessor_051421.zip"
-$ZipFileNameExecutor = "DonostekWorkflowSchedulerExecutor_051421.zip"
+$ZipFileNameReceiver = "DonostekWorkflowSchedulerAzure_021222.zip"
+$ZipFileNameProcessor = "DonostekWorkflowSchedulerProcessor_021522.zip"
+$ZipFileNameExecutor = "DonostekWorkflowSchedulerExecutor_021222.zip"
 $DynamicsConnection = "Your connection string to Dynamics 365"
 
 
@@ -100,4 +100,3 @@ Write-Host "*  D O N E  *"
 Write-Host "*************"
 
 Stop-Transcript
-
