@@ -22,7 +22,7 @@ Write-Host "****************************"
 $ErrorActionPreference="SilentlyContinue"
 Stop-Transcript | out-null
 $ErrorActionPreference = "Continue"
-Start-Transcript -path dschedulerlog_051421.txt -append
+Start-Transcript -path dschedulerlog.txt -append
 
 Write-Host "*************"
 Write-Host "* RECEIVER  *"
