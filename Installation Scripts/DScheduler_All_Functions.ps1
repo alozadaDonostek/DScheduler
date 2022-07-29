@@ -10,7 +10,7 @@ $ReceiverQueueString = "Provided by Donostek LLC"
 $ExecutorQueueString = "Provided by Donostek LLC"
 $QueueName = "Your Organization ID"
 $ZipFileNameReceiver = "DonostekWorkflowSchedulerAzure_021222.zip"
-$ZipFileNameProcessor = "DonostekWorkflowSchedulerProcessor_021522.zip"
+$ZipFileNameProcessor = "DonostekWorkflowSchedulerProcessor_051122.zip"
 $ZipFileNameExecutor = "DonostekWorkflowSchedulerExecutor_021222.zip"
 $DynamicsConnection = "Your connection string to Dynamics 365"
 
